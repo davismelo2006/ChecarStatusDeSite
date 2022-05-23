@@ -1,0 +1,15 @@
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\bin\Debug\net6.0\WebsiteIsAliveChecker.exe
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\bin\Debug\net6.0\WebsiteIsAliveChecker.deps.json
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\bin\Debug\net6.0\WebsiteIsAliveChecker.runtimeconfig.json
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\bin\Debug\net6.0\WebsiteIsAliveChecker.dll
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\bin\Debug\net6.0\WebsiteIsAliveChecker.pdb
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\obj\Debug\net6.0\WebsiteIsAliveChecker.csproj.AssemblyReference.cache
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\obj\Debug\net6.0\WebsiteIsAliveChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\obj\Debug\net6.0\WebsiteIsAliveChecker.AssemblyInfoInputs.cache
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\obj\Debug\net6.0\WebsiteIsAliveChecker.AssemblyInfo.cs
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\obj\Debug\net6.0\WebsiteIsAliveChecker.csproj.CoreCompileInputs.cache
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\obj\Debug\net6.0\WebsiteIsAliveChecker.dll
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\obj\Debug\net6.0\refint\WebsiteIsAliveChecker.dll
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\obj\Debug\net6.0\WebsiteIsAliveChecker.pdb
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\obj\Debug\net6.0\WebsiteIsAliveChecker.genruntimeconfig.cache
+C:\Users\LUIZ\Documents\c#\projetos-c#\WebsiteIsAliveChecker\obj\Debug\net6.0\ref\WebsiteIsAliveChecker.dll
